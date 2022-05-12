@@ -1,6 +1,9 @@
 # The Output Directory
 cmake-build-debug/*
 
+# The IDEA/CLION directory
+.idea/*
+
 # Prerequisites
 *.d
 

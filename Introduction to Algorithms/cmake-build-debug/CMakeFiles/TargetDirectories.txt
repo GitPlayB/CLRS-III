@@ -1,8 +1,0 @@
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/MaxSubArraySum.dir
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/QuickSort.dir
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/HeapSort.dir
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/MergeSort.dir
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/InsertionSort.dir
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Oliv/Dev/Projects/Introduction to Algorithms/cmake-build-debug/CMakeFiles/Introduction_to_Algorithms.dir
