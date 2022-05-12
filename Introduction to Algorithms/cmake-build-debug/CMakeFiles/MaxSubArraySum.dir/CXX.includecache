@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Oliv/Dev/Projects/Introduction to Algorithms/Ch4 Devide-and-Conquer/MaxSubArraySum.cpp
+iostream
+-
+vector
+-
+limits
+-
+random
+-
+time.h
+-
+

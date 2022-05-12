@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Oliv/Dev/Projects/Introduction to Algorithms/Ch2 Getting Started/MergeSort.cpp
+iostream
+-
+vector
+-
+
